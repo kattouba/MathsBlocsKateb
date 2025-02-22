@@ -76,7 +76,7 @@ Le but du jeu est simple :
 ## 📝 Contribuer
 
 Vous souhaitez contribuer au développement de **Maths Blocks Kateb** ?  
-👉 Forkez le projet sur [GitHub](https://github.com/votre-repo) et soumettez vos pull requests !
+👉 Forkez le projet sur [GitHub](https://github.com/kattouba/MathsBlocsKateb) et soumettez vos pull requests !
 
 ---
 
